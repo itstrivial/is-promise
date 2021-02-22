@@ -1,3 +1,3 @@
-# is-x
+# is-promise
 
-Template repository for `is-x` modules.
+You don't need this module. Use `x instanceof Promise` instead. 
